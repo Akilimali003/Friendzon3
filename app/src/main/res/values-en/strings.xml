@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fri3nd Zone</string>
+    <string name="btn_register">Create an account</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_select_photo">Profile picture</string>
+    <string name="btn_send_message_chat_log">Send</string>
+    <string name="tv_not_have_yet_an_account"><u>Not have an account yet ?</u></string>
+    <string name="tv_already_register"><u>Already have an account ?</u></string>
+    <string name="tv_login">Login -></string>
+    <string name="tv_sign_out">Sign out</string>
+    <string name="tv_new_message">New message</string>
+    <string name="edt_username">Username</string>
+    <string name="edt_email">Email</string>
+    <string name="edt_password">Password</string>
+    <string name="edt_chat_log">Type a message...</string>
+</resources>

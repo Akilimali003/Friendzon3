@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/menu_new_message"
+          android:title="@string/tv_new_message"
+          android:icon="@drawable/new_message_icon"
+          app:showAsAction="always"/>
+
+    <item android:id="@+id/menu_sign_out"
+          android:title="@string/tv_sign_out"
+          android:icon="@drawable/sign_out_icon"
+          app:showAsAction="withText"/>
+</menu>
